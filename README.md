@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Final-year Computer Science student at the University of Pretoria<br>🧠 Passionate about using tech to solve real-world problems and build meaningful solutions<br>🌍 Exploring AI, data science, and human-centered design <br>🎻 Double bass player<br>💡 Always learning, always curious
+🎓 BscHons Computer Science student at the University of Pretoria<br>🧠 Passionate about using tech to solve real-world problems and build meaningful solutions<br>🌍 Exploring AI, data science, and human-centered design <br>🎻 Double bass player<br>💡 Always learning, always curious
 
 
 ## 🌐 Socials:
